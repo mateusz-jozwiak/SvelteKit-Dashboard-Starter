@@ -1,8 +1,5 @@
-<script>
-	import Nav from '$lib/nav.svelte';
-	import SideBar from '$lib/sidebar.svelte';
+<script>	
 	import "../app.css";
-	import Sidebar from '../lib/sidebar.svelte';
 </script>
 
 
@@ -43,7 +40,7 @@
 	  
 	</div>
 	<div class="flex-1 m-0 p-0">
-	  <a class="btn btn-ghost normal-case text-xl">alkoCALC</a>
+	  <a class="btn btn-ghost normal-case text-xl">SvelteKit-Dashboard-Starter</a>
 	</div>
 	
 	<button class="btn btn-square btn-ghost">
@@ -73,7 +70,7 @@
 					</label>
 			  
 			</div>
-			<a class="btn btn-ghost normal-case text-xl">alkoCalc</a>
+			<a class="btn btn-ghost normal-case text-xl">Dashboard</a>
 
 	
 
