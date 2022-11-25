@@ -56,7 +56,7 @@
 
 
 	
-	<div class="drawer-side">
+	<div class="drawer-side border-r-2">
 	  <label for="my-drawer-2" class="drawer-overlay"></label> 
 	  <ul class="menu w-80 bg-base-100 text-base-content m-0">
 		
