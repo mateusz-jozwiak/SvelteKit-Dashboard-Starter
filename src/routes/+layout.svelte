@@ -61,9 +61,9 @@
 	
 	<div class="drawer-side">
 	  <label for="my-drawer-2" class="drawer-overlay"></label> 
-	  <ul class="menu p-4 w-80 bg-base-100 text-base-content m-0 p-0">
+	  <ul class="menu w-80 bg-base-100 text-base-content m-0">
 		
-		<div class="navbar bg-base-200 m-0 pl-02">
+		<div class="navbar bg-base-200 m-0 pl-2 b">
 			
 			
 
@@ -84,12 +84,12 @@
 
 		  <ul class="menu bg-base-100 p-2">
 			<li class="menu-title">
-			  <span>Category</span>
+			  <span>Kalkulatory</span>
 			</li>
 			<li><a href="/">Home</a></li>
 			<li><a href="/about">About</a></li>
 			<li class="menu-title">
-			  <span>Category</span>
+			  <span>Kalkulatory</span>
 			</li>
 			<li><a href="/settings">Settings</a></li>
 			<li><a href="/settings/profile">Profile</a></li>
